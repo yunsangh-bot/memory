@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Create a Pomodoro timer web application using React, Vite, and Tailwind CSS. The app will feature a dark theme, 25-minute focus sessions, and 5-minute breaks.",
+  "updatedAt":  "2026-05-01T15:27:38.468787100Z",
+  "requestFeedback":  true
+}
